@@ -9,7 +9,7 @@ A React-based project that provides a user-friendly interface for managing segme
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **React.js**
 - **React-Bootstrap**
 - **React-Select**
@@ -18,7 +18,7 @@ A React-based project that provides a user-friendly interface for managing segme
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1️. Clone the repository
 ```bash
